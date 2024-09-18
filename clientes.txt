@@ -1,0 +1,5 @@
+|||||
+
+3|andres larrea|colon 315 y pedro carbo|123456|4 de marzo de 1991
+4|pierina mendoza|metropolis|65416416168|12/10/2000
+5||||4 de marzo de 1991
